@@ -1,6 +1,6 @@
-token=NTA1MzQ0NDk3ODU3ODU1NTA4.DvtWvg.UaP2GhGru5UgL2SrL5C2LQA_0Wc
+token=NTQ1OTg2ODgzMzgyMTQ5MTUw.D0hsTw._qncefFNJwGbLIjZeYk72ZROnzI
 owner=515458477053706251
 prefix= M
-game= Meeeercy ,
+game= Meeeeercy , For Thunder.
 stayinchannel=true
 songinstatus=true
