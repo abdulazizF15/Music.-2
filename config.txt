@@ -1,6 +1,6 @@
 token=NTQ1OTg2ODgzMzgyMTQ5MTUw.D0hsTw._qncefFNJwGbLIjZeYk72ZROnzI
 owner=515458477053706251
 prefix= M
-game= Meeeeercy , For Thunder.
+game= OFF.
 stayinchannel=true
 songinstatus=true
